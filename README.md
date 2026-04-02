@@ -125,5 +125,4 @@ java src.Main
 ---
 
 ## ⭐ Support
-
-If y
+If you like this project, give it a ⭐ on GitHub!
